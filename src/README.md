@@ -8,4 +8,5 @@
 - Factorial.java：阶乘计算
 - Palindrome.java：回文判断
 - GuessNumber.java：猜数字游戏（含输入校验）
+- StudentGradeManager.java：学生成绩管理系统（数组版）
 
