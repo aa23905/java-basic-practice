@@ -1,0 +1,6 @@
+Hello Java
+  This is a practice file
+
+
+  File IO is useful
+  Good luck

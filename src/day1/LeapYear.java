@@ -1,3 +1,5 @@
+package day1;
+
 import java.util.Scanner;
 
 public class LeapYear {
@@ -7,7 +9,7 @@ public class LeapYear {
 
                 目标
 
-        编写一个 Java 命令行程序 LeapYear.java，让用户输入一个年份，程序判断并输出该年份是否为闰年。
+        编写一个 Java 命令行程序 day1.LeapYear.java，让用户输入一个年份，程序判断并输出该年份是否为闰年。
 
         闰年规则
 

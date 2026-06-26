@@ -1,3 +1,5 @@
+package day1;
+
 public class ArrayStats {
     public static void main(String[] args) {
         int[] numbers = {12, 22, 813, 4, 295, 15, 3, 11};
