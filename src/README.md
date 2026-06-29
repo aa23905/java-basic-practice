@@ -14,3 +14,8 @@
 - day3/InterfaceDemo.java  接口 + 抽象类：Employee + Programmable/Manageable 
 - day3/ExceptionDemo.java  异常处理 + 自定义异常 
 - day3/FileIODemo.java  文件 IO：读取 input.txt，过滤空行，转大写，写入 output.txt 
+- day5/ThreadCreateDemo.java      线程创建
+- day5/SynchronizedDemo.java      线程同步
+- day5/ProducerConsumerDemo.java  生产者-消费者
+- day5/ThreadPoolDemo.java        线程池
+- day5/CallableFutureDemo.java    Callable + Future

@@ -2,3 +2,67 @@ HELLO JAVA
   THIS IS A PRACTICE FILE
   FILE IO IS USEFUL
   GOOD LUCK
+ ### 练习列表
+
+  | 编号 | 文件 | 内容 |
+  |:----:|------|------|
+  | 10 | `day3/Student.java` | 封装：private 属性 + getter/setter + toString |
+  | 11 | `day3/AnimalDemo.java` | 继承 + 多态：Animal → Dog/Cat |
+  | 12 | `day3/InterfaceDemo.java` | 接口 + 抽象类：Employee + Programmable/Manageable |
+  | 13 | `day3/ExceptionDemo.java` | 异常处理 + 自定义异常 |
+  | 14 | `day3/FileIODemo.java` | 文件 IO：读取 input.txt，过滤空行，转大写，写入 output.txt |
+
+C:\Users\hwd11>sc delete MySQL80
+[SC] OpenService 失败 5:
+
+拒绝访问。
+
+
+C:\Users\hwd11>
+
+- root 密码用 Aa123456
+    - Service Name: MySQL80s
+
+  你接下来要做的事
+
+  1. 删除残留文件夹：
+  C:\Program Files\MySQL
+  C:\Program Files (x86)\MySQL
+  C:\ProgramData\MySQL
+  2. 重启电脑。
+  3. 重新运行 MySQL Installer，选择：
+    - 以管理员身份运行
+    - Custom 安装
+    - 只勾选 MySQL Server 8.0.46 - X64
+    - Config Type: Development Computer
+    - root 密码用 Aa123456
+    - Service Name: MySQL80
+  4. 如果再出现红叉，点击 Log 选项卡，复制红色错误日志。
+
+  ---
+  你去重启吧，回来把结果告诉我。
+
+
+  你先去忙，回来直接说"继续"或者把 DBeaver 安装/连接的结果发我，我们就开始写 SQL 练习。
+
+✻ Baked for 14s
+
+❯ 那我先断开咯
+
+  Thought for 2s (ctrl+o to expand)
+
+● 好的，aa23905，先去忙吧 👋
+
+  回来直接说"继续"，我会接着 MySQL / DBeaver 的进度带你开始 SQL 练习。
+
+  路上顺利！
+
+
+
+
+一个是我们县城本地的女生公务员，没谈过恋爱，比我大三岁，喜欢她几年了，家里条件比较好，她想等我考上的，后面我备考的时候又刷手机，爱上了另一个女主播。女主播有很多大哥刷礼物，之前
+
+
+
+
+
